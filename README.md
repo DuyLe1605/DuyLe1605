@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lê Minh Duy</h1>
 <h3 align="center">I am an information technology student specializing in back-end development in Vietnam.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duyle1605&label=Profile%20views&color=0e75b6&style=flat" alt="duyle1605" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duyle1605" alt="duyle1605" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - I’m currently learning back-end development as part of my studies in information technology. **Node.Js**
 
